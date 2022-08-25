@@ -7,7 +7,7 @@ include_once './includes/_header.php';
         <h1>OS MAIS PROCURADOS</h1>
         <div class="grid-container">
             <div class="card">
-                <a href="produtodetalhe.php">
+                <a href="produto-detalhe.php">
                 <div class="card-img"><img src="images/ledzeppelin.jpg"></div>
                 </a>
                 <div class="card-body">
@@ -16,7 +16,7 @@ include_once './includes/_header.php';
                 </div>
             </div>
             <div class="card">
-                <a href="produtodetalhe.php">
+                <a href="produto-detalhe.php">
                 <div class="card-img"><img src="images/pinkfloyd.jpg"></div>
                 </a>
                 <div class="card-body">
@@ -25,7 +25,7 @@ include_once './includes/_header.php';
                 </div>
             </div>
             <div class="card">
-                <a href="produtodetalhe.php">
+                <a href="produto-detalhe.php">
                 <div class="card-img"><img src="images/metallica.jpg"></div>
                 </a>
                 <div class="card-body">
@@ -34,7 +34,7 @@ include_once './includes/_header.php';
                 </div>
             </div>
             <div class="card">
-                <a href="produtodetalhe.php">
+                <a href="produto-detalhe.php">
                 <div class="card-img"><img src="images/ledzeppelin.jpg"></div>
                 </a>
                 <div class="card-body">
@@ -43,7 +43,7 @@ include_once './includes/_header.php';
                 </div>
             </div>
             <div class="card">
-                <a href="produtodetalhe.php">
+                <a href="produto-detalhe.php">
                 <div class="card-img"><img src="images/pinkfloyd.jpg"></div>
                 </a>
                 <div class="card-body">
@@ -52,7 +52,7 @@ include_once './includes/_header.php';
                 </div>
             </div>
             <div class="card">
-                <a href="produtodetalhe.php">
+                <a href="produto-detalhe.php">
                 <div class="card-img"><img src="images/metallica.jpg"></div>
                 </a>
                 <div class="card-body">
